@@ -10,12 +10,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Lexica](https://lexica.art)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Lexica Para gerar capas
 - Audio gerado pela elevenLabs
 
 
@@ -25,7 +23,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes na `Lexica`
 
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
